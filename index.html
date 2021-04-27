@@ -17,6 +17,8 @@
         <div class="upTime">upTime: {</div>
         <div>&nbsp;<span>"seconds": </span><span id="seconds"></span></div>
         <div>&nbsp;<span>"nano": </span><span id="nano"></span></div>
+        <div>&nbsp;<span>"zero": </span><span id="zero"></span></div>
+        <div>&nbsp;<span>"negative": </span><span id="negative"></span></div>
         <div>&nbsp;<span>"units": </span><span id="units"></span></div>
         <div class="upTime">}</div>
     </div>
@@ -59,6 +61,8 @@
             // put our strings to html structure
             document.querySelector("#seconds").innerHTML = resObj.upTime.seconds;
             document.querySelector("#nano").innerHTML = resObj.upTime.nano;
+            document.querySelector("#zero").innerHTML = resObj.upTime.zero;
+            document.querySelector("#negative").innerHTML = resObj.upTime.negative;
             document.querySelector("#units").innerHTML = unitString;
         }
 
