@@ -1,4 +1,4 @@
-**[View Live Preview](https://itsergeysobolit.github.io/assignment-test/)**
+**[View Live Preview](https://itsergeysobolit.github.io/assignment-test/index.html)**
 
 
 ## Quick start
@@ -16,3 +16,5 @@ When you run `cors-anywhere.js` you should see **Running CORS Anywhere on 127.0.
 `curl -X GET "http://localhost:8089/https://openmbee.incquery.io/api/server.status" -H  "accept: application/json" -H "Authorization: Basic b3Blbm1iZWVndWVzdDpndWVzdA=="`  
 This is encoded the username & password in Base64
 - Open **index.html** with live server
+
+![image](https://user-images.githubusercontent.com/31821117/116308175-e0f1f200-a7af-11eb-884b-ce26b20ced37.png)
