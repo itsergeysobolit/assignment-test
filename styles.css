@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#countdown, .container {
+    margin: 1rem;
+    width: 400px;
+    background-color: bisque;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+.container {
+    padding: 1rem;
+    text-align: left;
+    color: rgb(53, 45, 45);
+}
+
+.display {
+    color: chocolate;
+}
+
+/* .container {
+    margin: 1rem;
+    width: 400px;
+    background-color: papayawhip;
+} */
