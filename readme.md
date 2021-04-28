@@ -18,3 +18,4 @@ This is encoded the username & password in Base64
 - Open **index.html** with live server
 
 ![image](https://user-images.githubusercontent.com/31821117/116308175-e0f1f200-a7af-11eb-884b-ce26b20ced37.png)
+![image](https://user-images.githubusercontent.com/31821117/116415022-b2245c00-a841-11eb-8d1d-876aad6ee718.png)
